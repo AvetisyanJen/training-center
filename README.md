@@ -1,17 +1,17 @@
-#This is a simple project to add and display data in a learning center
+# This is a simple project to add and display data in a learning center
 
-##You can
+## You can
 - ill in the student data, register his / her preferred courses
 - add a course, fill in the description
 - add a course, fill in the description
 
-##Technologies used
+## Technologies used
 - React
 - Redux
 - React Hook Form
 - React Select
 
-##Style
+## Style
 Bootstrap 5.1.2
 
 
