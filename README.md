@@ -1,9 +1,9 @@
 # This is a simple project to add and display data in a learning center
 
 ## You can
-- ill in the student data, register his / her preferred courses
+- enroll a new student by selecting the preferred courses
 - add a course, fill in the description
-- add a course, fill in the description
+- see all data, make changes
 
 ## Technologies used
 - React
